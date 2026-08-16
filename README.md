@@ -1,2 +1,2 @@
-# Project-Assignment-JS
-Interactive Recipe Book
+# Project-Assignment
+Part 2
