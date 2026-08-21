@@ -103,12 +103,11 @@ th {
     padding: 1em;
 }
 
-main img {
+.thumb_photo {
     width: 150px;
     margin: 0.5em;
     cursor: pointer;
 }
-
 form div {
     margin-bottom: 1em;
 }
